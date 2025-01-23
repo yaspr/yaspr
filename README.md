@@ -18,7 +18,7 @@ I am **yaspr**, an expert engineer.
   - Cryptography (theory and implementation)
   - Reverse engineering (software and hardware)
   - Binary analysis
-  - Linux kernel 
+  - Linux kernel development
 
 ## Programming languages
   - C
