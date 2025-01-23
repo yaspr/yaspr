@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi and welcome to my Github repo
 
-<!--
-**yaspr/yaspr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **yaspr**, an expert engineer. 
 
-Here are some ideas to get you started:
+## Interests
+  - Electronics
+  - Computer architecture
+  - Embedded systems 
+  - Low level programming
+  - Parallel programming (CPU, GPU, FPGA, ...)
+  - Compilers, linkers, and loaders 
+  - Code optimization
+  - Performance profiling
+  - Benchmarking
+  - High Performance Computing
+  - Scientific programming
+  - Cybersecurity
+  - Cryptography (theory and implementation)
+  - Reverse engineering (software and hardware)
+  - Binary analysis
+  - Linux kernel 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages
+  - C
+  - C++
+  - Rust
+  - Lua
+  - Python
+
+## Websites
+  - https://project3331.net
+  - https://down2core.com
