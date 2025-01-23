@@ -19,6 +19,8 @@ I am **yaspr**, an expert engineer.
   - Reverse engineering (software and hardware)
   - Binary analysis
   - Linux kernel development
+  - Fuzzing
+  - Vulnerability hunting
 
 ## Programming languages
   - C
