@@ -28,7 +28,8 @@ I am **yaspr**, an expert engineer.
   - Rust
   - Lua
   - Python
-
+  - Assembly (x86_64, aarch64, riscv, ...)
+    
 ## Websites
   - https://project3331.net
   - https://down2core.com
