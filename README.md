@@ -21,6 +21,9 @@ I am **yaspr**, an expert engineer.
   - Linux kernel development
   - Fuzzing
   - Vulnerability hunting
+  - Malware design
+  - Malware analysis
+  - Pentesting
 
 ## Programming languages
   - C
