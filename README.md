@@ -9,6 +9,7 @@ My skills:
   4) reverse engineering;
   5) software development;
   6) teaching and education;
+  7) writing documentation and technical reports;
      
 ## Interests
   - Electronics
