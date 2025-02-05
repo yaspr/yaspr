@@ -1,18 +1,25 @@
 # Hi and welcome to my Github repo
 
-I am **yaspr**, an expert engineer. 
-If you need to build, manage, and enhance an HPC compute cluster, optimize massively parallel code, or perform security audits (code & hardware), I am your guy :]
+I am **yaspr**, an expert engineer with +15 years doing hardcore engineering and R&D, as well as teaching Computer Architecture and Code Optimization. 
 
+My skills: 
+  1) building, managing, benchmarking, and enhancing HPC clusters;
+  2) performance profiling and code optimization;
+  3) software and hardware security auditing;
+  4) reverse engineering;
+  5) software development;
+  6) teaching and education;
+     
 ## Interests
   - Electronics
   - Computer architecture
   - Embedded systems 
-  - Low level programming
+  - Low-level programming
   - Parallel programming (CPU, GPU, FPGA, ...)
   - Compilers, linkers, and loaders 
   - Code optimization
   - Performance profiling
-  - Benchmarking
+  - Performance benchmarking
   - High Performance Computing
   - Scientific programming
   - Cybersecurity
