@@ -1,6 +1,6 @@
 # Hi and welcome to my Github repo
 
-I am **yaspr**, a "full-stack" (hardware to software) engineer with +15 years doing hardcore engineering and R&D, as well as teaching Computer Architecture and Code Optimization.
+I am **yaspr**, a "full-stack" (hardware to software) HPC and cybersecurity engineer with +15 years doing hardcore engineering and R&D, as well as teaching Computer Architecture and Code Optimization.
 
 My skills: 
   1) building, managing, benchmarking, and enhancing HPC clusters;
