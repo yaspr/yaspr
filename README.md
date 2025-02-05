@@ -1,6 +1,7 @@
 # Hi and welcome to my Github repo
 
 I am **yaspr**, an expert engineer. 
+If you need to build, manage, and enhance an HPC compute cluster, optimize massively parallel code, or a perform security audit (code & hardware), I am your guy :]
 
 ## Interests
   - Electronics
