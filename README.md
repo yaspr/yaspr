@@ -40,6 +40,7 @@ My skills:
   - Rust
   - Lua
   - Python
+  - Verilog & VHDL
   - Assembly (x86_64, aarch64, riscv, ...)
     
 ## Websites
