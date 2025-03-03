@@ -3,45 +3,47 @@
 I am **yaspr**, a "full-stack" (hardware to software) HPC and cybersecurity engineer with +15 years experience doing hardcore engineering and R&D, as well as teaching Computer Architecture and Code Optimization.
 
 ## Skills: 
-  1) building, managing, benchmarking, and enhancing HPC clusters;
-  2) performance profiling and code optimization;
-  3) software and hardware security auditing;
-  4) reverse engineering;
-  5) software development;
-  6) teaching and education;
-  7) writing documentation and technical reports;
+  0) mastery of *NIX Operating Systems (Linux, OpenBSD, and FreeBSD) 
+  1) building, managing, benchmarking, and enhancing HPC clusters
+  2) advanced sysadmin
+  3) performance profiling (hardware/software) and code optimization
+  4) security auditing (hardware/software)
+  5) reverse engineering (hardware/software)
+  6) software development (from low level to user level apps) 
+  7) teaching and education
+  8) writing documentation and technical reports
      
 ## Interests
-  - Electronics
-  - Computer architecture
-  - Embedded systems 
-  - Low-level programming
-  - Parallel programming (CPU, GPU, FPGA, ...)
-  - Compilers, linkers, and loaders 
-  - Code optimization
-  - Performance profiling
-  - Performance benchmarking
-  - High Performance Computing
-  - Scientific programming
-  - Cybersecurity
-  - Cryptography (theory and implementation)
-  - Reverse engineering (software and hardware)
-  - Binary analysis
-  - Linux kernel development
-  - Fuzzing
-  - Vulnerability hunting
-  - Malware design
-  - Malware analysis
-  - Pentesting
-
+  - electronics
+  - computer architecture
+  - embedded systems 
+  - low-level programming
+  - parallel programming (CPU, GPU, FPGA, ...)
+  - compilers, linkers, and loaders 
+  - code optimization
+  - performance profiling
+  - performance benchmarking
+  - high Performance Computing
+  - scientific programming
+  - cybersecurity
+  - cryptography (theory and implementation)
+  - reverse engineering (software and hardware)
+  - binary analysis
+  - linux kernel development
+  - fuzzing
+  - vulnerability hunting
+  - malware design
+  - malware analysis
+  - pentesting
+    
 ## Programming languages
   - C
   - C++
   - Rust
   - Lua
   - Python
-  - Verilog & VHDL
   - Assembly (x86_64, aarch64, riscv, ...)
+  - Verilog & VHDL
     
 ## Websites
   - https://project3331.net
