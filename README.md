@@ -24,7 +24,7 @@ I am **yaspr**, a "full-stack" (hardware to software) HPC and cybersecurity engi
   - code optimization
   - performance profiling
   - performance benchmarking
-  - high Performance Computing
+  - High Performance Computing
   - scientific programming
   - cybersecurity
   - cryptography (theory and implementation)
