@@ -2,7 +2,7 @@
 
 I am **yaspr**, a "full-stack" (hardware to software) HPC and cybersecurity engineer with +15 years experience doing hardcore engineering and R&D, as well as teaching Computer Architecture and Code Optimization.
 
-## Skills: 
+## Skills 
   0) mastery of *NIX Operating Systems (Linux, OpenBSD, and FreeBSD) 
   1) building, managing, benchmarking, and enhancing HPC clusters
   2) advanced sysadmin
