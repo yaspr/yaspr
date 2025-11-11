@@ -6,13 +6,16 @@ I am **yaspr**, a "full-stack" (hardware to software) HPC and cybersecurity engi
   0) mastery of *NIX Operating Systems (Linux, OpenBSD, and FreeBSD) 
   1) building, managing, benchmarking, and enhancing HPC clusters
   2) advanced sysadmin
-  3) performance profiling (hardware/software) and code optimization
-  4) parallel programming (CPU, GPU, ...)
-  5) security auditing (hardware/software)
-  6) reverse engineering (hardware/software)
-  7) software development (from low level to user level apps) 
-  8) teaching and education
-  9) writing documentation and technical reports
+  3) code reviews
+  4) performance profiling (hardware/software) and code optimization
+  5) parallel programming (CPU, GPU, ...)
+  6) microarchitecture analysis 
+  7) security auditing (hardware/software)
+  8) reverse engineering (hardware/software)
+  9) cryptography
+  10) software development (from low level to user level apps)
+  11) teaching and education
+  12) writing documentation and technical reports
      
 ## Interests
   - electronics
